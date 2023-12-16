@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Toktorov Kurmanbek
 
-Welcome to my GitHub page!
+Welcome to my GitHub account!
 
 ## About Me
 I am passionate about technology and programming, with a keen interest in several areas:
