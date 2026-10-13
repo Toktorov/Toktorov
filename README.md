@@ -13,9 +13,6 @@ I am passionate about technology and programming, with a keen interest in severa
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) **FastAPI**: A modern, fast (high-performance) web framework for building APIs.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript & React**: For creating interactive and modern web interfaces.
 
-## Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-Toktorov2-blue?style=flat-square&logo=telegram)](https://t.me/Toktorov2)
-
 <!---
 Toktorov/Toktorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
